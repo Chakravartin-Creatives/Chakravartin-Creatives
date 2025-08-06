@@ -7,13 +7,13 @@ Phnom Penh, Cambodia + Ho Chi Minh City, Vietnam
 
 ---
 
-## 🌱 Mission
+## Mission
 To empower artists to thrive — not by replacing them, but by elevating them.  
 At Chakravartin Creatives, we build human-first, AI-augmented tools that help creators grow, connect, and live from their craft.
 
 ---
 
-## 🔧 Projects in Progress
+## Projects in Progress
 
 ### `artist-ops-app`
 A full-stack artist & creative business management platform:
@@ -35,13 +35,13 @@ Concepts and prototypes addressing real-world needs:
 
 ---
 
-## 🤝 Collaboration Philosophy
+## Collaboration Philosophy
 We’re open to engineers, researchers, artists, and thinkers.  
-No gatekeeping. If you care about culture, impact, and design — you're welcome here.
+No gatekeeping. If you care about culture, impact, and design, you're welcome here.
 
 ---
 
-## 🔭 Vision
+## Vision
 We believe technology should elevate storytelling, not extract its essence.  
 Artists don’t need disruption — they need tools that honor their craft, protect their spirit, and support their futures.  
 Our tools are built to preserve humanity, amplify creative reach, and sustain dignity.
@@ -51,7 +51,7 @@ Let’s build systems that serve people, not platforms.
 
 ---
 
-## 🛡 License
+## License
 All Chakravartin Creatives projects are protected under rights-first licenses:
 
 - `artist-ops-app`: Licensed under **Business Source License 1.1 (BSL 1.1)**
