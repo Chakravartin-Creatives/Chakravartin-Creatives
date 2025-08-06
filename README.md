@@ -2,7 +2,7 @@
 
 Founder: Sok Visal  
 Creative Director | Filmmaker | Music Producer | Creative Art Entrepreneur   
-Founder of KlapYaHandz · 802 Films · Mekong Movies · Stomp Mgt   
+Founder of KlapYaHandz · 802 Films · Mekong Movies · Stomp Mgt · Chakravartin Creatives · Maison Vinh · Votay   
 Phnom Penh, Cambodia
 
 Mission
