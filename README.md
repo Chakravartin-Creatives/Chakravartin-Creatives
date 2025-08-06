@@ -1,4 +1,4 @@
-# Chakravartin Creatives ― Building AI-Powered Empathy
+# Chakravartin Creatives ― Designing AI for Human Sovereignty & Code That Keeps Culture Human.
 
 Founder: Sok Visal  
 Creative Director | Filmmaker | Music Producer | Creative Art Entrepreneur   
