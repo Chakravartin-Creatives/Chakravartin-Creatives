@@ -3,7 +3,7 @@
 Founder: Sok Visal  
 Creative Director | Filmmaker | Music Producer | Creative Art Entrepreneur   
 Founder of KlapYaHandz · 802 Films · Mekong Movies · Stomp Mgt · Chakravartin Creatives · Maison Vinh · Votay   
-Phnom Penh, Cambodia
+Phnom Penh, Cambodia + Ho Chi Minh city, Vietnam
 
 Mission
 To empower artists to thrive, not by replacing them, but by elevating them. At Chakravartin Creatives, we build human-first, AI-augmented tools that help creators grow, connect, and live from their craft.
