@@ -53,12 +53,5 @@ Our tools are built to preserve humanity, amplify creative reach, and sustain di
 This is not AI for disruption — this is AI for preservation. For evolution.  
 Let’s build systems that serve people, not platforms.
 
-
-- `film-translator`: Licensed under **Creative Commons BY-NC-SA 4.0**
-  - Free to remix/share non-commercially with credit
-  - Derivatives must share the same license
-
-See each repo's LICENSE file for full terms.
-
 © 2025 Chakravartin Creatives. All rights reserved.
 
