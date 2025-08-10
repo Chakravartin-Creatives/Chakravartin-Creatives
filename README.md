@@ -53,14 +53,6 @@ Our tools are built to preserve humanity, amplify creative reach, and sustain di
 This is not AI for disruption — this is AI for preservation. For evolution.  
 Let’s build systems that serve people, not platforms.
 
----
-
-## License
-All Chakravartin Creatives projects are protected under rights-first licenses:
-
-- `artist-ops-app`: Licensed under **Business Source License 1.1 (BSL 1.1)**
-  - Commercial use prohibited until **August 6, 2028**
-  - Converts to **Apache 2.0** after that
 
 - `film-translator`: Licensed under **Creative Commons BY-NC-SA 4.0**
   - Free to remix/share non-commercially with credit
