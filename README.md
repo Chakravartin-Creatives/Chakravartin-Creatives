@@ -13,25 +13,29 @@ At Chakravartin Creatives, we build human-first, AI-augmented tools that help cr
 
 ---
 
-## Projects in Progress
+# Projects in Progress
 
-### `artist-ops-app`
-A full-stack artist & creative business management platform:
-- AI helps track growth, revenue, audience metrics, and opportunities.
-- Humans provide mentorship, creative guidance, and ecosystem support.
-- Designed for the rising global "middle class" of artists, creators, and micro-labels.
+**artist-ops-app** — An AI-assisted platform for artists and creative entrepreneurs to manage their business, track growth, and connect with mentors.  
+- AI tracks growth, revenue, and audience metrics  
+- Human-led mentorship and creative guidance  
+- Built for the global “middle class” of artists, creators, and micro-labels  
+- Includes music production, mixing, and mastering services
 
-### `film-translator`
-An AI-driven cinematic localization platform:
-- Native actors appear to speak any language, flawlessly dubbed.
-- Lip sync, voice modeling, and ambient localization handled automatically.
-- Seamless multilingual releases for cinema, VOD, and indie platforms.
+**film-translator** — An AI-driven localization engine for global film releases.  
+- Seamless multilingual dubbing with perfect lip-sync  
+- AI voice modeling for each actor, plus background chatter translation  
+- Enables cross-border distribution without losing cultural authenticity
 
-### `real-world-ai-tools`
-Concepts and prototypes addressing real-world needs:
-- AI literacy tools for children
-- Creative support companions for artists and entrepreneurs
-- Automation tools for legal paperwork, grants, and production workflows
+**film-showcase-app** — A subscription-based, AI-powered platform for independent filmmakers to **screen, market, and monetize** their films globally.  
+- Customizable film pages with professional templates  
+- Secure ticketing and streaming  
+- AI audience discovery and automated marketing campaigns  
+- Analytics, merch, crowdfunding, and collaboration tools in future phases
+
+**real-world-ai-tools** — Ideas and prototypes for AI applications solving real-life challenges.  
+- Tools for AI literacy in children  
+- AI companions for artists and entrepreneurs  
+- Automation for creator legal paperwork and grant submissions
 
 ---
 
